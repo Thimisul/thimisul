@@ -27,7 +27,7 @@ Sou movido por desafios e pela busca constante por aprendizado. Estou sempre bus
 - React (projeto pessoal, estudo autodidata)
 
 ### 🔗 Integrações
-- OAuth (Entra ID)
+- OAuth (Entra ID, Keycloak)
 - Integrações com SAP
 - APIs REST
 
