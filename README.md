@@ -54,7 +54,6 @@ Sou movido por desafios e pela busca constante por aprendizado. Estou sempre bus
 
 ## 💡 Em busca de
 
-- 🌟 Oportunidades como desenvolvedor backend, fullstack ou integrações.
 - 🚀 Desafios que me permitam continuar aprendendo e evoluindo.
 - 👥 Trabalhar em equipes colaborativas, que valorizam aprendizado, qualidade e boas práticas.
 
