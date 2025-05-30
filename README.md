@@ -2,11 +2,11 @@
 
 Sou desenvolvedor de software, formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento e por resolver problemas.
 
-Atualmente atuo como desenvolvedor backend, trabalhando com Grails, Java e Groovy, além de ter boa experiência com frontend, integrações e automações. Sou o desenvolvedor mais experiente do projeto onde trabalho, participando ativamente nas decisões técnicas, desenvolvimento de features, resolução de bugs e integrações como SAP e autenticação OAuth via Entra ID.
+Atualmente atuo como desenvolvedor backend, trabalhando com Grails, Java e Groovy, além de ter boa experiência com frontend, integrações e automações. Sou o desenvolvedor que hoje participo ativamente nas decisões técnicas, desenvolvimento de features, resolução de bugs e integrações como SAP e autenticação OAuth2.
 
-Sempre tive uma trajetória muito voltada para explorar tecnologias. Durante a faculdade, desenvolvi projetos em C, Ruby on Rails, React (sem framework) e Ionic. Fora do ambiente profissional, gosto muito de aprender e experimentar tecnologias como Docker, Terraform, automações com N8N, além de Python para explorar o mundo dos dados.
+Sempre tive uma trajetória muito voltada para explorar tecnologias. Durante a faculdade, desenvolvi projetos em C, Ruby on Rails,Ionic, Angular, React, NextJs e NestJs . Fora do ambiente profissional, gosto muito de aprender e experimentar tecnologias como Docker, Terraform, automações com N8N, além de Python para explorar o mundo dos dados.
 
-Sou movido por desafios e pela busca constante por aprendizado. Estou sempre buscando oportunidades que me permitam evoluir profissionalmente, colaborar com projetos de impacto e, futuramente, empreender.
+Sou movido por desafios e pela busca constante por aprendizado. Estou sempre buscando oportunidades que me permitam evoluir profissionalmente, colaborar com projetos de impacto.
 
 ---
 
